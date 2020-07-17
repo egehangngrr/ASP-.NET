@@ -1,0 +1,49 @@
+D:\Egitim\ProjectMaskiPortal\Arch.Dto\bin\Debug\Arch.Dto.dll
+D:\Egitim\ProjectMaskiPortal\Arch.Dto\bin\Debug\Arch.Dto.pdb
+D:\Egitim\ProjectMaskiPortal\Arch.Dto\bin\Debug\Arch.Core.dll
+D:\Egitim\ProjectMaskiPortal\Arch.Dto\bin\Debug\Newtonsoft.Json.dll
+D:\Egitim\ProjectMaskiPortal\Arch.Dto\bin\Debug\Arch.Core.pdb
+D:\Egitim\ProjectMaskiPortal\Arch.Dto\obj\Debug\Arch.Dto.csprojResolveAssemblyReference.cache
+D:\Egitim\ProjectMaskiPortal\Arch.Dto\obj\Debug\Arch.Dto.dll
+D:\Egitim\ProjectMaskiPortal\Arch.Dto\obj\Debug\Arch.Dto.pdb
+D:\Egitim\ProjectPortal\Arch.Dto\bin\Debug\Arch.Dto.dll
+D:\Egitim\ProjectPortal\Arch.Dto\bin\Debug\Arch.Dto.pdb
+D:\Egitim\ProjectPortal\Arch.Dto\bin\Debug\Arch.Core.dll
+D:\Egitim\ProjectPortal\Arch.Dto\bin\Debug\Newtonsoft.Json.dll
+D:\Egitim\ProjectPortal\Arch.Dto\bin\Debug\Arch.Core.pdb
+D:\Egitim\ProjectPortal\Arch.Dto\obj\Debug\Arch.Dto.csprojResolveAssemblyReference.cache
+D:\Egitim\ProjectPortal\Arch.Dto\obj\Debug\Arch.Dto.dll
+D:\Egitim\ProjectPortal\Arch.Dto\obj\Debug\Arch.Dto.pdb
+D:\Egitim\ProjectWork\Arch.Dto\obj\Debug\Arch.Dto.csprojResolveAssemblyReference.cache
+D:\Egitim\ProjectWork\Arch.Dto\obj\Debug\Arch.Dto.dll
+D:\Egitim\ProjectWork\Arch.Dto\obj\Debug\Arch.Dto.pdb
+D:\Egitim\ProjectWork\Arch.Dto\bin\Debug\Arch.Dto.dll
+D:\Egitim\ProjectWork\Arch.Dto\bin\Debug\Arch.Dto.pdb
+D:\Egitim\ProjectWork\Arch.Dto\bin\Debug\Arch.Core.dll
+D:\Egitim\ProjectWork\Arch.Dto\bin\Debug\Newtonsoft.Json.dll
+D:\Egitim\ProjectWork\Arch.Dto\bin\Debug\Arch.Core.pdb
+C:\Users\yilma\Desktop\Yeni klasör\ProjectWork\Arch.Dto\bin\Debug\Arch.Dto.dll
+C:\Users\yilma\Desktop\Yeni klasör\ProjectWork\Arch.Dto\bin\Debug\Arch.Dto.pdb
+C:\Users\yilma\Desktop\Yeni klasör\ProjectWork\Arch.Dto\bin\Debug\Arch.Core.dll
+C:\Users\yilma\Desktop\Yeni klasör\ProjectWork\Arch.Dto\bin\Debug\Arch.Core.pdb
+C:\Users\yilma\Desktop\Yeni klasör\ProjectWork\Arch.Dto\obj\Debug\Arch.Dto.csprojAssemblyReference.cache
+C:\Users\yilma\Desktop\Yeni klasör\ProjectWork\Arch.Dto\obj\Debug\Arch.Dto.csproj.CoreCompileInputs.cache
+C:\Users\yilma\Desktop\Yeni klasör\ProjectWork\Arch.Dto\obj\Debug\Arch.Dto.csproj.CopyComplete
+C:\Users\yilma\Desktop\Yeni klasör\ProjectWork\Arch.Dto\obj\Debug\Arch.Dto.dll
+C:\Users\yilma\Desktop\Yeni klasör\ProjectWork\Arch.Dto\obj\Debug\Arch.Dto.pdb
+C:\Users\yilma\Desktop\İş Takip Yazılımı\ProjectWork\Arch.Dto\bin\Debug\Arch.Dto.dll
+C:\Users\yilma\Desktop\İş Takip Yazılımı\ProjectWork\Arch.Dto\bin\Debug\Arch.Dto.pdb
+C:\Users\yilma\Desktop\İş Takip Yazılımı\ProjectWork\Arch.Dto\bin\Debug\Arch.Core.dll
+C:\Users\yilma\Desktop\İş Takip Yazılımı\ProjectWork\Arch.Dto\bin\Debug\Arch.Core.pdb
+C:\Users\yilma\Desktop\İş Takip Yazılımı\ProjectWork\Arch.Dto\obj\Debug\Arch.Dto.csprojAssemblyReference.cache
+C:\Users\yilma\Desktop\İş Takip Yazılımı\ProjectWork\Arch.Dto\obj\Debug\Arch.Dto.csproj.CoreCompileInputs.cache
+C:\Users\yilma\Desktop\İş Takip Yazılımı\ProjectWork\Arch.Dto\obj\Debug\Arch.Dto.csproj.CopyComplete
+C:\Users\yilma\Desktop\İş Takip Yazılımı\ProjectWork\Arch.Dto\obj\Debug\Arch.Dto.dll
+C:\Users\yilma\Desktop\İş Takip Yazılımı\ProjectWork\Arch.Dto\obj\Debug\Arch.Dto.pdb
+C:\Users\Egehan\Desktop\SON PROJE BÜKÜCÜ\İş Takip Yazılımı\ProjectWork\Arch.Dto\bin\Debug\Arch.Dto.dll
+C:\Users\Egehan\Desktop\SON PROJE BÜKÜCÜ\İş Takip Yazılımı\ProjectWork\Arch.Dto\bin\Debug\Arch.Dto.pdb
+C:\Users\Egehan\Desktop\SON PROJE BÜKÜCÜ\İş Takip Yazılımı\ProjectWork\Arch.Dto\bin\Debug\Arch.Core.dll
+C:\Users\Egehan\Desktop\SON PROJE BÜKÜCÜ\İş Takip Yazılımı\ProjectWork\Arch.Dto\bin\Debug\Arch.Core.pdb
+C:\Users\Egehan\Desktop\SON PROJE BÜKÜCÜ\İş Takip Yazılımı\ProjectWork\Arch.Dto\obj\Debug\Arch.Dto.csprojResolveAssemblyReference.cache
+C:\Users\Egehan\Desktop\SON PROJE BÜKÜCÜ\İş Takip Yazılımı\ProjectWork\Arch.Dto\obj\Debug\Arch.Dto.dll
+C:\Users\Egehan\Desktop\SON PROJE BÜKÜCÜ\İş Takip Yazılımı\ProjectWork\Arch.Dto\obj\Debug\Arch.Dto.pdb

@@ -1,0 +1,32 @@
+D:\Egitim\ProjectMaskiPortal\Arch.Core\bin\Debug\Arch.Core.dll
+D:\Egitim\ProjectMaskiPortal\Arch.Core\bin\Debug\Arch.Core.pdb
+D:\Egitim\ProjectMaskiPortal\Arch.Core\obj\Debug\Arch.Core.csprojResolveAssemblyReference.cache
+D:\Egitim\ProjectMaskiPortal\Arch.Core\obj\Debug\Arch.Core.dll
+D:\Egitim\ProjectMaskiPortal\Arch.Core\obj\Debug\Arch.Core.pdb
+D:\Egitim\ProjectPortal\Arch.Core\bin\Debug\Arch.Core.dll
+D:\Egitim\ProjectPortal\Arch.Core\bin\Debug\Arch.Core.pdb
+D:\Egitim\ProjectPortal\Arch.Core\obj\Debug\Arch.Core.dll
+D:\Egitim\ProjectPortal\Arch.Core\obj\Debug\Arch.Core.pdb
+D:\Egitim\ProjectPortal\Arch.Core\obj\Debug\Arch.Core.csprojResolveAssemblyReference.cache
+D:\Egitim\ProjectWork\Arch.Core\bin\Debug\Arch.Core.dll
+D:\Egitim\ProjectWork\Arch.Core\bin\Debug\Arch.Core.pdb
+D:\Egitim\ProjectWork\Arch.Core\obj\Debug\Arch.Core.csprojResolveAssemblyReference.cache
+D:\Egitim\ProjectWork\Arch.Core\obj\Debug\Arch.Core.dll
+D:\Egitim\ProjectWork\Arch.Core\obj\Debug\Arch.Core.pdb
+C:\Users\yilma\Desktop\Yeni klasör\ProjectWork\Arch.Core\bin\Debug\Arch.Core.dll
+C:\Users\yilma\Desktop\Yeni klasör\ProjectWork\Arch.Core\bin\Debug\Arch.Core.pdb
+C:\Users\yilma\Desktop\Yeni klasör\ProjectWork\Arch.Core\obj\Debug\Arch.Core.csprojAssemblyReference.cache
+C:\Users\yilma\Desktop\Yeni klasör\ProjectWork\Arch.Core\obj\Debug\Arch.Core.csproj.CoreCompileInputs.cache
+C:\Users\yilma\Desktop\Yeni klasör\ProjectWork\Arch.Core\obj\Debug\Arch.Core.dll
+C:\Users\yilma\Desktop\Yeni klasör\ProjectWork\Arch.Core\obj\Debug\Arch.Core.pdb
+C:\Users\yilma\Desktop\İş Takip Yazılımı\ProjectWork\Arch.Core\bin\Debug\Arch.Core.dll
+C:\Users\yilma\Desktop\İş Takip Yazılımı\ProjectWork\Arch.Core\bin\Debug\Arch.Core.pdb
+C:\Users\yilma\Desktop\İş Takip Yazılımı\ProjectWork\Arch.Core\obj\Debug\Arch.Core.csprojAssemblyReference.cache
+C:\Users\yilma\Desktop\İş Takip Yazılımı\ProjectWork\Arch.Core\obj\Debug\Arch.Core.csproj.CoreCompileInputs.cache
+C:\Users\yilma\Desktop\İş Takip Yazılımı\ProjectWork\Arch.Core\obj\Debug\Arch.Core.dll
+C:\Users\yilma\Desktop\İş Takip Yazılımı\ProjectWork\Arch.Core\obj\Debug\Arch.Core.pdb
+C:\Users\Egehan\Desktop\SON PROJE BÜKÜCÜ\İş Takip Yazılımı\ProjectWork\Arch.Core\bin\Debug\Arch.Core.dll
+C:\Users\Egehan\Desktop\SON PROJE BÜKÜCÜ\İş Takip Yazılımı\ProjectWork\Arch.Core\bin\Debug\Arch.Core.pdb
+C:\Users\Egehan\Desktop\SON PROJE BÜKÜCÜ\İş Takip Yazılımı\ProjectWork\Arch.Core\obj\Debug\Arch.Core.csprojResolveAssemblyReference.cache
+C:\Users\Egehan\Desktop\SON PROJE BÜKÜCÜ\İş Takip Yazılımı\ProjectWork\Arch.Core\obj\Debug\Arch.Core.dll
+C:\Users\Egehan\Desktop\SON PROJE BÜKÜCÜ\İş Takip Yazılımı\ProjectWork\Arch.Core\obj\Debug\Arch.Core.pdb
